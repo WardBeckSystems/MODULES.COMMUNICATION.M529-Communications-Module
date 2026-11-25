@@ -1,0 +1,83 @@
+{
+ "code": "M529",
+ "connector": "RTO-144",
+ "type": "Communication Modules",
+ "series": null,
+ "contacts": "6 contacts, 1 contacts (P1), 22 contacts (P2)",
+ "verified": null,
+ "derived": true,
+ "variant_of": null,
+ "pins": [
+  {
+   "pin": "1",
+   "signal": "SUPPLY VOLTAGE",
+   "kind": "power",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/COMMUNICATION/M529/MANUALS/1985 - M529 - Communication Modules.pdf",
+   "page": 24
+  },
+  {
+   "pin": "1",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/COMMUNICATION/M529/MANUALS/1985 - M529 - Communication Modules.pdf",
+   "page": 21
+  },
+  {
+   "pin": "1",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/COMMUNICATION/M529/MANUALS/1985 - M529 - Communication Modules.pdf",
+   "page": 21
+  },
+  {
+   "pin": "5",
+   "signal": "OUTPUT",
+   "kind": "out",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/COMMUNICATION/M529/MANUALS/1985 - M529 - Communication Modules.pdf",
+   "page": 24
+  },
+  {
+   "pin": "6",
+   "signal": "OUTPUT",
+   "kind": "out",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/COMMUNICATION/M529/MANUALS/1985 - M529 - Communication Modules.pdf",
+   "page": 24
+  },
+  {
+   "pin": "22",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/COMMUNICATION/M529/MANUALS/1985 - M529 - Communication Modules.pdf",
+   "page": 18
+  }
+ ],
+ "straps": [],
+ "power": [],
+ "sources": [
+  "Modules/COMMUNICATION/M529/MANUALS/1985 - M529 - Communication Modules.pdf"
+ ]
+}
