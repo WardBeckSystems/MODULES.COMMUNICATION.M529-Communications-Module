@@ -1,0 +1,125 @@
+{
+ "drawing": "Modules/COMMUNICATION/M529/MECHANICAL/1985 - 529-03-005 - IDENT COVER - DRN BD - ENG MRW - ISS 2.jpg",
+ "version": 1,
+ "trace": "_traces/d83c2a6be67096fa.svg",
+ "sheet": {
+  "number": "B 529-03-005",
+  "title": "IDENT COVER",
+  "dtype": "03",
+  "type": "mechanical",
+  "size": "B",
+  "size_assumed": false,
+  "rotate": 0,
+  "px": [2000, 1414],
+  "mm": [431.8, 305.3],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 10.7, 432.0, 298.2],
+ "outlines": {
+  "line": {"rings": 87, "straight": {"n": 2141, "mm": 6375.6}, "curved": {"n": 197, "mm": 293.1}},
+  "text": {"rings": 283, "straight": {"n": 2658, "mm": 3387.5}, "curved": {"n": 727, "mm": 1249.0}},
+  "tb": {"rings": 32, "straight": {"n": 227, "mm": 384.1}, "curved": {"n": 33, "mm": 47.6}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 675, "straight": {"n": 711, "mm": 2087.0}, "curved": {"n": 5, "mm": 5.4}},
+   "text": {"paths": 2228, "straight": {"n": 2936, "mm": 2491.2}, "curved": {"n": 0, "mm": 0.0}},
+   "tb": {"paths": 800, "straight": {"n": 863, "mm": 1605.8}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 34,
+  "orientation": {"horizontal": {"n": 1191, "mm": 2717.0}, "vertical": {"n": 1080, "mm": 1505.6}, "diagonal": {"n": 2239, "mm": 1961.5}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [218.1, 188.3], "r": 1.3, "kind": "arc", "span": 184, "from": ["centre line"], "start": 7},
+  {"c": [216.9, 187.4], "r": 1.0, "kind": "arc", "span": 187, "from": ["centre line"], "start": 177}
+ ],
+ "boxes": [
+  {"mm": [161.7, 105.4, 174.6, 207.3], "w": 13.0, "h": 101.9, "from": "ring"},
+  {"mm": [278.1, 102.3, 281.7, 107.5], "w": 3.7, "h": 5.2, "from": "ring", "in_title_block": true},
+  {"mm": [319.7, 66.5, 332.7, 72.8], "w": 13.0, "h": 6.3, "from": "ring", "in_title_block": true},
+  {"mm": [346.7, 66.1, 412.2, 72.8], "w": 65.4, "h": 6.7, "from": "ring", "words": ["CBloDA HOLES WERE", "IIODA"], "in_title_block": true},
+  {"mm": [413.0, 66.1, 425.5, 72.2], "w": 12.5, "h": 6.1, "from": "ring", "words": ["BD"], "in_title_block": true},
+  {"mm": [319.7, 60.0, 332.7, 65.8], "w": 13.0, "h": 5.8, "from": "ring", "words": ["ISSUE DATE"], "in_title_block": true},
+  {"mm": [333.3, 59.8, 345.9, 65.6], "w": 12.5, "h": 5.8, "from": "ring", "in_title_block": true},
+  {"mm": [346.7, 59.4, 412.5, 65.6], "w": 65.8, "h": 6.3, "from": "ring", "words": ["REVISION"], "in_title_block": true},
+  {"mm": [413.0, 59.4, 425.5, 65.2], "w": 12.5, "h": 5.8, "from": "ring", "words": ["APP"], "in_title_block": true},
+  {"mm": [286.5, 41.0, 425.3, 58.9], "w": 138.8, "h": 18.0, "from": "ring", "words": ["WBS", "WARD-BECK", "SYSTEMS"], "in_title_block": true},
+  {"mm": [286.3, 28.3, 318.9, 34.5], "w": 32.6, "h": 6.3, "from": "ring", "words": ["ENG. MeW"], "in_title_block": true},
+  {"mm": [286.3, 21.8, 318.9, 27.9], "w": 32.6, "h": 6.0, "from": "ring", "words": ["CKD:"], "in_title_block": true},
+  {"mm": [286.3, 15.3, 318.9, 21.4], "w": 32.6, "h": 6.0, "from": "ring", "words": ["APP"], "in_title_block": true}
+ ],
+ "text": {
+  "words": 46,
+  "lines": [
+   {"mm": [286.3, 218.7, 309.8, 225.7], "text": "NCTES:"},
+   {"mm": [279.8, 206.8, 353.2, 216.4], "text": ") MATL IOO CLEAR"},
+   {"mm": [357.3, 208.1, 398.3, 214.6], "text": "ALEXIGLASS"},
+   {"mm": [279.6, 199.9, 336.4, 207.4], "text": "2 FINISH: NONE"},
+   {"mm": [201.0, 191.7, 225.4, 197.0], "text": "08l0 DIA"},
+   {"mm": [226.7, 190.2, 273.8, 197.4], "text": "4 C'BOPE .125DIA"},
+   {"mm": [278.5, 190.2, 342.0, 197.9], "text": "3 TOL : XX='015"},
+   {"mm": [312.0, 184.8, 345.0, 191.3], "text": "XXX = 005"},
+   {"mm": [220.6, 183.7, 264.3, 190.2], "text": "2 PLACES TYP"},
+   {"mm": [217.6, 177.0, 258.6, 184.2], "text": "SEE DETAICA"},
+   {"mm": [287.1, 176.8, 382.8, 184.8], "text": "REMOVE ALL Bueps AND"},
+   {"mm": [287.1, 170.8, 336.6, 178.4], "text": "SHAPP EOGES"},
+   {"mm": [105.4, 153.5, 125.2, 161.7], "text": "3920"},
+   {"mm": [122.0, 135.8, 139.9, 143.5], "text": "2944"},
+   {"mm": [267.7, 123.9, 298.4, 130.4], "text": "DETAIL A"},
+   {"mm": [323.6, 117.7, 337.0, 123.2], "text": "030"},
+   {"mm": [139.9, 114.2, 153.3, 121.2], "text": "-97"},
+   {"mm": [182.4, 89.4, 196.5, 96.3], "text": "242"},
+   {"mm": [189.6, 75.8, 202.5, 83.2], "text": "482"},
+   {"mm": [350.0, 66.9, 410.4, 72.2], "text": "CBloDA HOLES WERE IIODA"},
+   {"mm": [413.4, 65.6, 422.1, 72.1], "text": "BD"},
+   {"mm": [319.7, 60.0, 345.7, 65.5], "text": "ISSUE DATE"},
+   {"mm": [370.5, 60.5, 389.9, 64.8], "text": "REVISION"},
+   {"mm": [414.7, 60.0, 424.0, 64.3], "text": "APP"},
+   {"mm": [294.7, 45.1, 421.0, 54.7], "text": "WBS WARD-BECK SYSTEMS"},
+   {"mm": [287.1, 34.8, 315.2, 41.7], "text": "DRN  ED ME"},
+   {"mm": [286.5, 27.9, 311.3, 34.8], "text": "ENG. MeW"},
+   {"mm": [286.9, 22.7, 297.1, 27.5], "text": "CKD:"},
+   {"mm": [339.0, 22.5, 393.6, 29.8], "text": "IDENT COVER"},
+   {"mm": [287.4, 16.2, 296.0, 20.5], "text": "APP"},
+   {"mm": [294.9, 9.7, 309.0, 15.2], "text": "SCALE"},
+   {"mm": [339.0, 3.9, 390.8, 12.0], "text": "529-03-005"}
+  ],
+  "scale": null
+ },
+ "title_block": {
+  "mm": [277.9, 3.6, 431.8, 184.5],
+  "from": "title-block words (training set)",
+  "text": [
+   "REMOVE ALL Bueps AND",
+   "SHAPP EOGES",
+   "DETAIL A",
+   "030",
+   "CBloDA HOLES WERE IIODA",
+   "BD",
+   "ISSUE DATE",
+   "REVISION",
+   "APP",
+   "WBS WARD-BECK SYSTEMS",
+   "DRN  ED ME",
+   "ENG. MeW",
+   "CKD:",
+   "IDENT COVER",
+   "APP",
+   "SCALE",
+   "529-03-005"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** mechanical B 529-03-005, size B 432 × 305 mm, 2000 × 1414 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–432 mm across, 11–298 mm up",
+  "- **Outlines:** line 87 rings, 2,141 straight (6,376 mm) / 197 curved (293 mm); text 283 rings, 2,658 straight (3,388 mm) / 727 curved (1,249 mm); tb 32 rings, 227 straight (384 mm) / 33 curved (47.6 mm)",
+  "- **Centre lines:** 3,703 paths (34 closed); straight 6,184 mm, curved 5.4 mm; horizontal 2,717 mm, vertical 1,506 mm, diagonal 1,962 mm",
+  "- **Circles and arcs:** 0 circles, 2 arcs",
+  "- **Closed boxes:** 13 (12 in the title block)",
+  "- **Words (OCR):** 46 in 32 lines: NCTES: · ) MATL IOO CLEAR · ALEXIGLASS · 2 FINISH: NONE · 08l0 DIA · 4 C'BOPE .125DIA · 3 TOL : XX='015 · XXX = 005 · 2 PLACES TYP · SEE DETAICA · REMOVE ALL Bueps AND · SHAPP EOGES",
+  "- **Title block:** (278, 4)–(432, 184) mm: REMOVE ALL Bueps AND · SHAPP EOGES · DETAIL A · 030 · CBloDA HOLES WERE IIODA · BD · ISSUE DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN  ED ME · ENG. MeW · CKD: · IDENT COVER · APP · SCALE · 52"
+ ]
+}

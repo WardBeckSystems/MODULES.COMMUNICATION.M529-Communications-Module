@@ -1,0 +1,58 @@
+{
+ "drawing": "Modules/COMMUNICATION/M529/MANUALS/1985 - M529 - Communication Modules.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/0a8ab500584ef048-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1590, 2000],
+  "mm": [343.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "28"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [5.2, -0.1, 332.9, 431.8],
+ "outlines": {
+  "line": {"rings": 93, "straight": {"n": 2213, "mm": 6661.8}, "curved": {"n": 117, "mm": 286.1}},
+  "text": {"rings": 49, "straight": {"n": 1129, "mm": 3901.4}, "curved": {"n": 92, "mm": 237.9}},
+  "tb": {"rings": 2, "straight": {"n": 52, "mm": 252.0}, "curved": {"n": 3, "mm": 2.8}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 13,
+  "lines": [
+   {"mm": [195.2, 401.4, 286.3, 424.6], "text": "WBS"},
+   {"mm": [192.6, 362.5, 285.2, 387.0], "text": "WBS"},
+   {"mm": [192.6, 323.6, 285.2, 348.1], "text": "WBS"},
+   {"mm": [193.0, 284.8, 284.8, 308.5], "text": "WBS"},
+   {"mm": [192.6, 246.3, 284.1, 270.3], "text": "WBS"},
+   {"mm": [192.6, 208.1, 284.1, 232.1], "text": "WBS"},
+   {"mm": [191.7, 168.2, 283.7, 193.4], "text": "WBS"},
+   {"mm": [191.7, 130.8, 283.3, 154.6], "text": "WBS"},
+   {"mm": [230.6, 105.4, 250.0, 111.8], "text": "M529"},
+   {"mm": [190.9, 95.2, 285.6, 103.4], "text": "COMMUNICAtIONS MODULE"},
+   {"mm": [192.6, 53.8, 282.4, 76.8], "text": "WBS"},
+   {"mm": [191.1, 14.9, 282.6, 38.4], "text": "WBS"}
+  ]
+ },
+ "title_block": {
+  "mm": [184.2, 6.2, 293.2, 431.8],
+  "from": "title-block words (training set)",
+  "text": ["WBS", "WBS", "WBS", "WBS", "WBS", "WBS", "WBS", "WBS", "M529", "COMMUNICAtIONS MODULE", "WBS", "WBS"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 343 × 432 mm, 1590 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 5–333 mm across, 0–432 mm up",
+  "- **Outlines:** line 93 rings, 2,213 straight (6,662 mm) / 117 curved (286 mm); text 49 rings, 1,129 straight (3,901 mm) / 92 curved (238 mm); tb 2 rings, 52 straight (252 mm) / 3 curved (2.8 mm)",
+  "- **Words (OCR):** 13 in 12 lines: WBS · WBS · WBS · WBS · WBS · WBS · WBS · WBS · M529 · COMMUNICAtIONS MODULE · WBS · WBS",
+  "- **Title block:** (184, 6)–(293, 432) mm: WBS · WBS · WBS · WBS · WBS · WBS · WBS · WBS · M529 · COMMUNICAtIONS MODULE · WBS · WBS"
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "drawing": "Modules/COMMUNICATION/M529/MANUALS/1985 - M529 - Communication Modules.pdf",
+ "page": 2,
+ "version": 1,
+ "trace": "_traces/0a8ab500584ef048-p2.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1423, 2000],
+  "mm": [307.2, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "2", "pages": "28"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [3.7, 3.5, 299.2, 417.8],
+ "outlines": {
+  "line": {"rings": 5, "straight": {"n": 1054, "mm": 2575.1}, "curved": {"n": 80, "mm": 135.2}},
+  "text": {"rings": 172, "straight": {"n": 1961, "mm": 2646.6}, "curved": {"n": 434, "mm": 747.9}},
+  "tb": {"rings": 19, "straight": {"n": 279, "mm": 504.8}, "curved": {"n": 38, "mm": 53.7}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 15,
+  "lines": [
+   {"mm": [99.3, 408.1, 180.1, 418.8], "text": "WARD-BECK"},
+   {"mm": [183.1, 408.9, 274.2, 419.5], "text": "SYSTEMS LTD_"},
+   {"mm": [25.9, 398.3, 242.9, 413.4], "text": "WBS 841 PAOGRESS AVENUE, SCAABOROUGH; ONTARIO"},
+   {"mm": [98.5, 397.0, 154.2, 402.6], "text": "Telex 065-25399"},
+   {"mm": [191.9, 397.5, 226.0, 402.7], "text": "TELEPHONE"},
+   {"mm": [229.3, 398.1, 271.0, 403.4], "text": "4161438-6550"},
+   {"mm": [127.4, 228.9, 173.2, 244.0], "text": "M529"},
+   {"mm": [84.0, 210.7, 208.3, 220.6], "text": "COMMUNICATIONS MODULE"},
+   {"mm": [218.1, 35.6, 268.4, 42.6], "text": "MANUAL ISSUE"},
+   {"mm": [220.2, 21.6, 264.9, 28.5], "text": "AugusT 1985"}
+  ]
+ },
+ "title_block": {
+  "mm": [19.8, 27.0, 274.5, 428.0],
+  "from": "title-block words (training set)",
+  "text": [
+   "WARD-BECK",
+   "SYSTEMS LTD_",
+   "WBS 841 PAOGRESS AVENUE, SCAABOROUGH; ONTARIO",
+   "Telex 065-25399",
+   "TELEPHONE",
+   "4161438-6550",
+   "M529",
+   "COMMUNICATIONS MODULE",
+   "MANUAL ISSUE"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 307 × 432 mm, 1423 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 4–299 mm across, 4–418 mm up",
+  "- **Outlines:** line 5 rings, 1,054 straight (2,575 mm) / 80 curved (135 mm); text 172 rings, 1,961 straight (2,647 mm) / 434 curved (748 mm); tb 19 rings, 279 straight (505 mm) / 38 curved (53.7 mm)",
+  "- **Words (OCR):** 15 in 10 lines: WARD-BECK · SYSTEMS LTD_ · WBS 841 PAOGRESS AVENUE, SCAABOROUGH; ONTARIO · Telex 065-25399 · TELEPHONE · 4161438-6550 · M529 · COMMUNICATIONS MODULE · MANUAL ISSUE · AugusT 1985",
+  "- **Title block:** (20, 27)–(274, 428) mm: WARD-BECK · SYSTEMS LTD_ · WBS 841 PAOGRESS AVENUE, SCAABOROUGH; ONTARIO · Telex 065-25399 · TELEPHONE · 4161438-6550 · M529 · COMMUNICATIONS MODULE · MANUAL ISSUE"
+ ]
+}

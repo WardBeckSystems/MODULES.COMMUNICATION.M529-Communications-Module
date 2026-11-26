@@ -1,0 +1,46 @@
+{
+ "drawing": "Modules/COMMUNICATION/M529/MANUALS/1985 - M529 - Communication Modules.pdf",
+ "page": 22,
+ "version": 1,
+ "trace": "_traces/0a8ab500584ef048-p22.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1546, 2000],
+  "mm": [333.8, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "22", "pages": "28"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [5.4, 0.0, 332.9, 432.0],
+ "outlines": {
+  "line": {"rings": 183, "straight": {"n": 3019, "mm": 5569.5}, "curved": {"n": 447, "mm": 551.5}},
+  "text": {"rings": 70, "straight": {"n": 670, "mm": 832.6}, "curved": {"n": 128, "mm": 218.9}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 7,
+  "lines": [
+   {"mm": [19.0, 409.8, 71.9, 416.7], "text": "WAAD-BECK"},
+   {"mm": [73.8, 410.2, 113.8, 417.2], "text": "SYSTEMS"},
+   {"mm": [115.9, 410.6, 134.3, 417.6], "text": "LTD."},
+   {"mm": [138.2, 227.1, 166.2, 234.1], "text": "SECTION"},
+   {"mm": [107.3, 214.2, 206.2, 220.6], "text": "MODULES AND SUBASSE MBL IES"}
+  ]
+ },
+ "title_block": {"mm": [12.2, 401.1, 120.5, 425.8], "from": "title-block words (training set)", "text": ["WAAD-BECK", "SYSTEMS"]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 334 × 432 mm, 1546 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 5–333 mm across, 0–432 mm up",
+  "- **Outlines:** line 183 rings, 3,019 straight (5,570 mm) / 447 curved (552 mm); text 70 rings, 670 straight (833 mm) / 128 curved (219 mm)",
+  "- **Words (OCR):** 7 in 5 lines: WAAD-BECK · SYSTEMS · LTD. · SECTION · MODULES AND SUBASSE MBL IES",
+  "- **Title block:** (12, 401)–(120, 426) mm: WAAD-BECK · SYSTEMS"
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "drawing": "Modules/COMMUNICATION/M529/MANUALS/1985 - M529 - Communication Modules.pdf",
+ "page": 23,
+ "version": 1,
+ "trace": "_traces/0a8ab500584ef048-p23.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1425, 2000],
+  "mm": [307.7, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "23", "pages": "28"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [4.5, 8.9, 301.4, 425.5],
+ "outlines": {
+  "line": {"rings": 4, "straight": {"n": 1166, "mm": 2597.2}, "curved": {"n": 108, "mm": 189.0}},
+  "text": {"rings": 87, "straight": {"n": 740, "mm": 904.2}, "curved": {"n": 212, "mm": 343.2}},
+  "tb": {"rings": 3, "straight": {"n": 6, "mm": 4.9}, "curved": {"n": 5, "mm": 6.0}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 9,
+  "lines": [
+   {"mm": [4.3, 418.8, 128.5, 426.5], "text": "WAAD-BECK Systems LTD;"},
+   {"mm": [95.0, 224.5, 209.2, 231.5], "text": "SA14-124 OSC ILLATOR ASSEMBLY"},
+   {"mm": [219.6, 37.8, 239.4, 44.3], "text": "Issue"},
+   {"mm": [219.1, 29.4, 244.2, 37.5], "text": "August"},
+   {"mm": [247.6, 30.7, 262.8, 37.6], "text": "1985"}
+  ]
+ },
+ "title_block": {
+  "mm": [0.0, 29.1, 245.6, 431.8],
+  "from": "title-block words (training set)",
+  "text": ["WAAD-BECK Systems LTD;", "SA14-124 OSC ILLATOR ASSEMBLY", "Issue", "August"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 308 × 432 mm, 1425 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 4–301 mm across, 9–426 mm up",
+  "- **Outlines:** line 4 rings, 1,166 straight (2,597 mm) / 108 curved (189 mm); text 87 rings, 740 straight (904 mm) / 212 curved (343 mm); tb 3 rings, 6 straight (4.9 mm) / 5 curved (6.0 mm)",
+  "- **Words (OCR):** 9 in 5 lines: WAAD-BECK Systems LTD; · SA14-124 OSC ILLATOR ASSEMBLY · Issue · August · 1985",
+  "- **Title block:** (0, 29)–(246, 432) mm: WAAD-BECK Systems LTD; · SA14-124 OSC ILLATOR ASSEMBLY · Issue · August"
+ ]
+}
