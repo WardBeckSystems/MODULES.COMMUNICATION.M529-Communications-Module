@@ -22,7 +22,7 @@ Wiki page: [M529](../../../../PAGES/M529.md)
 - **Dots (junctions):** 2
 - **Wiring (first pass):** 83 connected wire groups from 664 runs, 2 dotted junctions
 
-Every curve, box, word and wire group: [1985 - M529 - B 14-124-02-001 - SA14-124 OSCILLATOR ASSEMBLY - SCHEMATIC (traced).json](../SCHEMATICS/1985%20-%20M529%20-%20B%2014-124-02-001%20-%20SA14-124%20OSCILLATOR%20ASSEMBLY%20-%20SCHEMATIC%20(traced).json) (the CAD file: `1985 - M529 - B 14-124-02-001 - SA14-124 OSCILLATOR ASSEMBLY - SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M529 - B 14-124-02-001 - SA14-124 OSCILLATOR ASSEMBLY - SCHEMATIC (traced).json](../SCHEMATICS/1985%20-%20M529%20-%20B%2014-124-02-001%20-%20SA14-124%20OSCILLATOR%20ASSEMBLY%20-%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1985 - M529 - B 14-124-02-001 - SA14-124 OSCILLATOR ASSEMBLY - SCHEMATIC (traced).dxf`).
 
 ## Full text
 

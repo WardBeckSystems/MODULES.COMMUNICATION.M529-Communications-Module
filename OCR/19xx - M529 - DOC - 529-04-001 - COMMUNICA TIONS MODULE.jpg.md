@@ -25,7 +25,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 27 in 23 lines: Osc · TONE · PGm · SLATE · PEAK · so · Nx · ^ux · ISSUE DATE · REVISION · APP · WBS
 - **Title block:** (79, 0)–(234, 76) mm: ISSUE DATE · REVISION · APP · WBS · WARD-BECK SYSTEMS · M529 · ENG_ MKJ COMMUNICATIONS MODULE · CKD lot- · FRONT PANEL LAYOUT · APP · SCALE · ISSUE · 529-04-001
 
-Every curve, box, word and wire group: [19xx - M529 - DOC - 529-04-001 - COMMUNICA TIONS MODULE (traced).json](../MECHANICAL/19xx%20-%20M529%20-%20DOC%20-%20529-04-001%20-%20COMMUNICA%20TIONS%20MODULE%20(traced).json) (the CAD file: `19xx - M529 - DOC - 529-04-001 - COMMUNICA TIONS MODULE (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M529 - DOC - 529-04-001 - COMMUNICA TIONS MODULE (traced).json](../MECHANICAL/19xx%20-%20M529%20-%20DOC%20-%20529-04-001%20-%20COMMUNICA%20TIONS%20MODULE%20%28traced%29.json) (the CAD file: `19xx - M529 - DOC - 529-04-001 - COMMUNICA TIONS MODULE (traced).dxf`).
 
 ## Full text
 

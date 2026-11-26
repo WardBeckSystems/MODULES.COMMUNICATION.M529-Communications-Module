@@ -34,7 +34,7 @@ Wiki page: [M529](../../../../PAGES/M529.md)
 - **Closed boxes:** 106
 - **Wiring (first pass):** 276 connected wire groups from 1,260 runs
 
-Every curve, box, word and wire group: [1985 - 529-02-011 - M529A UTILITY MODULE - ENG ELJ - ISS 1 (traced).json](../SCHEMATICS/1985%20-%20529-02-011%20-%20M529A%20UTILITY%20MODULE%20-%20ENG%20ELJ%20-%20ISS%201%20(traced).json) (the CAD file: `1985 - 529-02-011 - M529A UTILITY MODULE - ENG ELJ - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - 529-02-011 - M529A UTILITY MODULE - ENG ELJ - ISS 1 (traced).json](../SCHEMATICS/1985%20-%20529-02-011%20-%20M529A%20UTILITY%20MODULE%20-%20ENG%20ELJ%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1985 - 529-02-011 - M529A UTILITY MODULE - ENG ELJ - ISS 1 (traced).dxf`).
 
 ## Full text
 

@@ -21,7 +21,7 @@ Wiki page: [M529](../../../../PAGES/M529.md)
 - **Closed boxes:** 6
 - **Wiring (first pass):** 92 connected wire groups from 585 runs
 
-Every curve, box, word and wire group: [1985 - M529 - B 529-01-001 - COMMUNICATIONS MODULE - FUNCTIONAL (traced).json](../SCHEMATICS/1985%20-%20M529%20-%20B%20529-01-001%20-%20COMMUNICATIONS%20MODULE%20-%20FUNCTIONAL%20(traced).json) (the CAD file: `1985 - M529 - B 529-01-001 - COMMUNICATIONS MODULE - FUNCTIONAL (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M529 - B 529-01-001 - COMMUNICATIONS MODULE - FUNCTIONAL (traced).json](../SCHEMATICS/1985%20-%20M529%20-%20B%20529-01-001%20-%20COMMUNICATIONS%20MODULE%20-%20FUNCTIONAL%20%28traced%29.json) (the CAD file: `1985 - M529 - B 529-01-001 - COMMUNICATIONS MODULE - FUNCTIONAL (traced).dxf`).
 
 ## Full text
 

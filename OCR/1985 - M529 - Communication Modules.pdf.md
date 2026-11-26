@@ -27,7 +27,7 @@ Wiki page: [M529](../../../../PAGES/M529.md)
 - **Words (OCR):** 13 in 12 lines: WBS · WBS · WBS · WBS · WBS · WBS · WBS · WBS · M529 · COMMUNICAtIONS MODULE · WBS · WBS
 - **Title block:** (184, 6)–(293, 432) mm: WBS · WBS · WBS · WBS · WBS · WBS · WBS · WBS · M529 · COMMUNICAtIONS MODULE · WBS · WBS
 
-Every curve, box, word and wire group: [1985 - M529 - Communication Modules p1 (traced).json](../MANUALS/1985%20-%20M529%20-%20Communication%20Modules%20p1%20(traced).json) (the CAD file: `1985 - M529 - Communication Modules p1 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M529 - Communication Modules p1 (traced).json](../MANUALS/1985%20-%20M529%20-%20Communication%20Modules%20p1%20%28traced%29.json) (the CAD file: `1985 - M529 - Communication Modules p1 (traced).dxf`).
 
 ### Page 2
 
@@ -37,7 +37,7 @@ Every curve, box, word and wire group: [1985 - M529 - Communication Modules p1 (
 - **Words (OCR):** 15 in 10 lines: WARD-BECK · SYSTEMS LTD_ · WBS 841 PAOGRESS AVENUE, SCAABOROUGH; ONTARIO · Telex 065-25399 · TELEPHONE · 4161438-6550 · M529 · COMMUNICATIONS MODULE · MANUAL ISSUE · AugusT 1985
 - **Title block:** (20, 27)–(274, 428) mm: WARD-BECK · SYSTEMS LTD_ · WBS 841 PAOGRESS AVENUE, SCAABOROUGH; ONTARIO · Telex 065-25399 · TELEPHONE · 4161438-6550 · M529 · COMMUNICATIONS MODULE · MANUAL ISSUE
 
-Every curve, box, word and wire group: [1985 - M529 - Communication Modules p2 (traced).json](../MANUALS/1985%20-%20M529%20-%20Communication%20Modules%20p2%20(traced).json) (the CAD file: `1985 - M529 - Communication Modules p2 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M529 - Communication Modules p2 (traced).json](../MANUALS/1985%20-%20M529%20-%20Communication%20Modules%20p2%20%28traced%29.json) (the CAD file: `1985 - M529 - Communication Modules p2 (traced).dxf`).
 
 ### Page 3
 
@@ -47,7 +47,7 @@ Every curve, box, word and wire group: [1985 - M529 - Communication Modules p2 (
 - **Dots (junctions):** 1
 - **Words (OCR):** 69 in 50 lines: WAAD-BECK Bystems LTD; · TABLE OF · CONTENTS · M529 COMMUNICATIONS · MODULE · SECTION · PAGE · Warranty · Main_Frame · Technical Data · 1-1 to · 1-3
 
-Every curve, box, word and wire group: [1985 - M529 - Communication Modules p3 (traced).json](../MANUALS/1985%20-%20M529%20-%20Communication%20Modules%20p3%20(traced).json) (the CAD file: `1985 - M529 - Communication Modules p3 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M529 - Communication Modules p3 (traced).json](../MANUALS/1985%20-%20M529%20-%20Communication%20Modules%20p3%20%28traced%29.json) (the CAD file: `1985 - M529 - Communication Modules p3 (traced).dxf`).
 
 ### Page 4
 
@@ -57,7 +57,7 @@ Every curve, box, word and wire group: [1985 - M529 - Communication Modules p3 (
 - **Dots (junctions):** 1
 - **Words (OCR):** 170 in 96 lines: WAAD-BECK SYSTEMS LTD · TECHNICAL DATA · M529 COMMUNICATIONS MODULE · Note: · Specifications are · based on · voltage · levels · of 600 ohm · system unless · otherwise · specified_
 
-Every curve, box, word and wire group: [1985 - M529 - Communication Modules p4 (traced).json](../MANUALS/1985%20-%20M529%20-%20Communication%20Modules%20p4%20(traced).json) (the CAD file: `1985 - M529 - Communication Modules p4 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M529 - Communication Modules p4 (traced).json](../MANUALS/1985%20-%20M529%20-%20Communication%20Modules%20p4%20%28traced%29.json) (the CAD file: `1985 - M529 - Communication Modules p4 (traced).dxf`).
 
 ### Page 5
 
@@ -69,7 +69,7 @@ Every curve, box, word and wire group: [1985 - M529 - Communication Modules p4 (
 - **Words (OCR):** 233 in 126 lines: WARD-BECK BYETEMS LTD; · WAAD-BECK BYSTEMS LTD_ · TECHNICAL DATA · TECHNICAL_DATA · M529 · COMMUNICATIONS_MODULE · M529 · COMMUNLCATIONS_MODULE · Speaker Amnplifier Section: · Oscillator Section: · Gain: · To Speaker
 - **Title block:** (0, 271)–(326, 288) mm: WARD-BECK BYETEMS LTD; · WAAD-BECK BYSTEMS LTD_
 
-Every curve, box, word and wire group: [1985 - M529 - Communication Modules p5 (traced).json](../MANUALS/1985%20-%20M529%20-%20Communication%20Modules%20p5%20(traced).json) (the CAD file: `1985 - M529 - Communication Modules p5 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M529 - Communication Modules p5 (traced).json](../MANUALS/1985%20-%20M529%20-%20Communication%20Modules%20p5%20%28traced%29.json) (the CAD file: `1985 - M529 - Communication Modules p5 (traced).dxf`).
 
 ### Page 6
 
@@ -80,7 +80,7 @@ Every curve, box, word and wire group: [1985 - M529 - Communication Modules p5 (
 - **Words (OCR):** 295 in 149 lines: WAAD-BECK · Systems LTD_ · GENERAL · M529 COMMUNICATIONS · MODULE · The M529 · Communications · Module · provides the required · talkback, cue · ST · series of Stereo
 - **Title block:** (1, 72)–(197, 432) mm: WAAD-BECK · Systems LTD_ · GENERAL · M529 COMMUNICATIONS · The M529 · Communications · Module · provides the required · feed and test · oscillator facilities for the · Television consoles · The integr
 
-Every curve, box, word and wire group: [1985 - M529 - Communication Modules p6 (traced).json](../MANUALS/1985%20-%20M529%20-%20Communication%20Modules%20p6%20(traced).json) (the CAD file: `1985 - M529 - Communication Modules p6 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M529 - Communication Modules p6 (traced).json](../MANUALS/1985%20-%20M529%20-%20Communication%20Modules%20p6%20%28traced%29.json) (the CAD file: `1985 - M529 - Communication Modules p6 (traced).dxf`).
 
 ### Page 7
 
@@ -89,7 +89,7 @@ Every curve, box, word and wire group: [1985 - M529 - Communication Modules p6 (
 - **Outlines:** line 30 rings, 1,626 straight (3,919 mm) / 162 curved (264 mm); text 1,844 rings, 13,273 straight (14,753 mm) / 3,956 curved (6,249 mm)
 - **Words (OCR):** 243 in 112 lines: WAAD-BECK bystems LTD · OPERAT IONAL DESCRIPT ION · M529 COMMUNICATIONS · MODULE · Refer to · Module_Layout B529-04-001 · MICROPHONE · The · integral microphone is the · input to · the talkback pre- · amplifier.
 
-Every curve, box, word and wire group: [1985 - M529 - Communication Modules p7 (traced).json](../MANUALS/1985%20-%20M529%20-%20Communication%20Modules%20p7%20(traced).json) (the CAD file: `1985 - M529 - Communication Modules p7 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M529 - Communication Modules p7 (traced).json](../MANUALS/1985%20-%20M529%20-%20Communication%20Modules%20p7%20%28traced%29.json) (the CAD file: `1985 - M529 - Communication Modules p7 (traced).dxf`).
 
 ### Page 8
 
@@ -100,7 +100,7 @@ Every curve, box, word and wire group: [1985 - M529 - Communication Modules p7 (
 - **Words (OCR):** 256 in 113 lines: WARD-BECK SySTeMS LTD. · WAAD-BECK Systems LTD, · OPERATIONAL DESCRIPT ION · OPERAT IONAL DESCRIPT ION · M529 · COMMUNICATIONS DESCRIPTION · M529 · COMMUNICATIONS DESCRIPT ION · DESIGNATION · 16) TALKBACK · The · designation strip labels
 - **Title block:** (0, 272)–(323, 286) mm: WARD-BECK SySTeMS LTD. · WAAD-BECK Systems LTD,
 
-Every curve, box, word and wire group: [1985 - M529 - Communication Modules p8 (traced).json](../MANUALS/1985%20-%20M529%20-%20Communication%20Modules%20p8%20(traced).json) (the CAD file: `1985 - M529 - Communication Modules p8 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M529 - Communication Modules p8 (traced).json](../MANUALS/1985%20-%20M529%20-%20Communication%20Modules%20p8%20%28traced%29.json) (the CAD file: `1985 - M529 - Communication Modules p8 (traced).dxf`).
 
 ### Page 9
 
@@ -110,7 +110,7 @@ Every curve, box, word and wire group: [1985 - M529 - Communication Modules p8 (
 - **Dots (junctions):** 1
 - **Words (OCR):** 331 in 164 lines: WAAD-BECK sybtems LTD · CIRcUIT DESCRIPT ION · M529 COMMUNICATIONS · MODULE · Speaker Amplifier · Inputs · actively balanced · The · preamplifier u3 has · four inputs which may · be · connected to
 
-Every curve, box, word and wire group: [1985 - M529 - Communication Modules p9 (traced).json](../MANUALS/1985%20-%20M529%20-%20Communication%20Modules%20p9%20(traced).json) (the CAD file: `1985 - M529 - Communication Modules p9 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M529 - Communication Modules p9 (traced).json](../MANUALS/1985%20-%20M529%20-%20Communication%20Modules%20p9%20%28traced%29.json) (the CAD file: `1985 - M529 - Communication Modules p9 (traced).dxf`).
 
 ### Page 10
 
@@ -121,7 +121,7 @@ Every curve, box, word and wire group: [1985 - M529 - Communication Modules p9 (
 - **Words (OCR):** 585 in 282 lines: X'^?.6'. · WAAD-BECK SysTems LTD. · 6 ~Taya ~'4a Oxcw · WAAD-BECK Systems LTD. · CIRcUIT DESCRIPTION · CIRcUIT DESCRIPTION · M529 COMMUNICATIONS MODULE · M529 · COMMUNICATIONS MODULE · ifier · P~vy Vo · Talkback
 - **Title block:** (0, 270)–(310, 285) mm: WAAD-BECK SysTems LTD. · 6 ~Taya ~'4a Oxcw · WAAD-BECK Systems LTD.
 
-Every curve, box, word and wire group: [1985 - M529 - Communication Modules p10 (traced).json](../MANUALS/1985%20-%20M529%20-%20Communication%20Modules%20p10%20(traced).json) (the CAD file: `1985 - M529 - Communication Modules p10 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M529 - Communication Modules p10 (traced).json](../MANUALS/1985%20-%20M529%20-%20Communication%20Modules%20p10%20%28traced%29.json) (the CAD file: `1985 - M529 - Communication Modules p10 (traced).dxf`).
 
 ### Page 11
 
@@ -132,7 +132,7 @@ Every curve, box, word and wire group: [1985 - M529 - Communication Modules p10 
 - **Words (OCR):** 183 in 129 lines: WAAD-BECK SYBTEmS LTD · WAAD-BECK SYSTEMS LTD_ · CIRcUIT DESCRIPTION · PARIS_LIST · M529 COMMUNICATIONS MODULE · COMMUNICATLONS_MODULE · M529 · R159 , · C66 and C67 decouple the supply · decouple the · supply voltage u9 _ · voltage
 - **Title block:** (1, 265)–(325, 283) mm: WAAD-BECK SYBTEmS LTD · WAAD-BECK SYSTEMS LTD_
 
-Every curve, box, word and wire group: [1985 - M529 - Communication Modules p11 (traced).json](../MANUALS/1985%20-%20M529%20-%20Communication%20Modules%20p11%20(traced).json) (the CAD file: `1985 - M529 - Communication Modules p11 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M529 - Communication Modules p11 (traced).json](../MANUALS/1985%20-%20M529%20-%20Communication%20Modules%20p11%20%28traced%29.json) (the CAD file: `1985 - M529 - Communication Modules p11 (traced).dxf`).
 
 ### Page 12
 
@@ -143,7 +143,7 @@ Every curve, box, word and wire group: [1985 - M529 - Communication Modules p11 
 - **Words (OCR):** 249 in 225 lines: WAAD-BECK SYSTEMS LTD; · WAAD-BECK SYSTEMS LTD; · PARTS LIST · PARTS LIST · M529 COMMUNICATIONS · MODULE · M529 COMMUNICATIONS MODULE · PART · DESCRIPTION · MFG · MFG PART · NUMBER
 - **Title block:** (0, 277)–(314, 292) mm: WAAD-BECK SYSTEMS LTD; · WAAD-BECK SYSTEMS LTD;
 
-Every curve, box, word and wire group: [1985 - M529 - Communication Modules p12 (traced).json](../MANUALS/1985%20-%20M529%20-%20Communication%20Modules%20p12%20(traced).json) (the CAD file: `1985 - M529 - Communication Modules p12 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M529 - Communication Modules p12 (traced).json](../MANUALS/1985%20-%20M529%20-%20Communication%20Modules%20p12%20%28traced%29.json) (the CAD file: `1985 - M529 - Communication Modules p12 (traced).dxf`).
 
 ### Page 13
 
@@ -154,7 +154,7 @@ Every curve, box, word and wire group: [1985 - M529 - Communication Modules p12 
 - **Words (OCR):** 174 in 161 lines: WAAD-BECK SySTEMS LTD · WAAD-BECK SYETEMS LTD_ · PARTS LIST · PARIS LIST · M529 COMMUNICATIONS_MODULE · COMMUNICATIONS_MODULE · M529 · PART DESCRIPTION · PART · DESCRIPIION · MFG · MFG PART NUMBER
 - **Title block:** (0, 267)–(322, 282) mm: WAAD-BECK SySTEMS LTD · WAAD-BECK SYETEMS LTD_
 
-Every curve, box, word and wire group: [1985 - M529 - Communication Modules p13 (traced).json](../MANUALS/1985%20-%20M529%20-%20Communication%20Modules%20p13%20(traced).json) (the CAD file: `1985 - M529 - Communication Modules p13 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M529 - Communication Modules p13 (traced).json](../MANUALS/1985%20-%20M529%20-%20Communication%20Modules%20p13%20%28traced%29.json) (the CAD file: `1985 - M529 - Communication Modules p13 (traced).dxf`).
 
 ### Page 14
 
@@ -165,7 +165,7 @@ Every curve, box, word and wire group: [1985 - M529 - Communication Modules p13 
 - **Words (OCR):** 183 in 155 lines: WARD-BECK SYSTEMS LTD · WAAD-BECK SYSTEMS LTD. · PARTS_LIST · PARIS LIsT · M529 COMMUNICATIONS MQDULE · M529 · COMMUNICATIONS_MODULE · PART DESCRIPT ION · MFG · MFG PART NUMBER · PART · DESCRIPTION
 - **Title block:** (0, 42)–(393, 284) mm: WARD-BECK SYSTEMS LTD · WAAD-BECK SYSTEMS LTD. · PARTS_LIST · PARIS LIsT · M529 COMMUNICATIONS MQDULE · M529 · COMMUNICATIONS_MODULE · PART DESCRIPT ION · MFG · MFG PART NUMBER · PART · DESCRIPTION · 
 
-Every curve, box, word and wire group: [1985 - M529 - Communication Modules p14 (traced).json](../MANUALS/1985%20-%20M529%20-%20Communication%20Modules%20p14%20(traced).json) (the CAD file: `1985 - M529 - Communication Modules p14 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M529 - Communication Modules p14 (traced).json](../MANUALS/1985%20-%20M529%20-%20Communication%20Modules%20p14%20%28traced%29.json) (the CAD file: `1985 - M529 - Communication Modules p14 (traced).dxf`).
 
 ### Page 15
 
@@ -176,7 +176,7 @@ Every curve, box, word and wire group: [1985 - M529 - Communication Modules p14 
 - **Words (OCR):** 165 in 132 lines: WAAD-BECK SYSTEMS LTD_ · WARD-BECK SYETEMS LTD. · PARTS_LISI · PARIS_LISI · M529 · COMMUNICATIONS_MODULE · M529 COMMUNICAT IONS MODULE · MISCELLANEouS · COMPONENTS · PART DESCRIPTION · MFG · MFG PART
 - **Title block:** (0, 12)–(359, 283) mm: WAAD-BECK SYSTEMS LTD_ · WARD-BECK SYETEMS LTD. · PARTS_LISI · PARIS_LISI · M529 · COMMUNICATIONS_MODULE · M529 COMMUNICAT IONS MODULE · MISCELLANEouS · COMPONENTS · PART DESCRIPTION · MFG · MFG PART 
 
-Every curve, box, word and wire group: [1985 - M529 - Communication Modules p15 (traced).json](../MANUALS/1985%20-%20M529%20-%20Communication%20Modules%20p15%20(traced).json) (the CAD file: `1985 - M529 - Communication Modules p15 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M529 - Communication Modules p15 (traced).json](../MANUALS/1985%20-%20M529%20-%20Communication%20Modules%20p15%20%28traced%29.json) (the CAD file: `1985 - M529 - Communication Modules p15 (traced).dxf`).
 
 ### Page 16
 
@@ -187,7 +187,7 @@ Every curve, box, word and wire group: [1985 - M529 - Communication Modules p15 
 - **Words (OCR):** 142 in 110 lines: WAAD-BECK systems LTD_ · CONNECTOR LAYouT · M529 COMMUNICATIONS MODULE · -60 dBm · -60 dBm · SHIELD · SHIELD · OSC ILLATOR · OSC ILLATOR · dBm · dBm · outputs
 - **Title block:** (0, 412)–(112, 432) mm: WAAD-BECK systems LTD_
 
-Every curve, box, word and wire group: [1985 - M529 - Communication Modules p16 (traced).json](../MANUALS/1985%20-%20M529%20-%20Communication%20Modules%20p16%20(traced).json) (the CAD file: `1985 - M529 - Communication Modules p16 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M529 - Communication Modules p16 (traced).json](../MANUALS/1985%20-%20M529%20-%20Communication%20Modules%20p16%20%28traced%29.json) (the CAD file: `1985 - M529 - Communication Modules p16 (traced).dxf`).
 
 ### Page 17
 
@@ -197,7 +197,7 @@ Every curve, box, word and wire group: [1985 - M529 - Communication Modules p16 
 - **Closed boxes:** 39; named: 10; 11; 12; 13; 15; 16; 17; 18; 19; 20; 21; 22
 - **Words (OCR):** 81 in 75 lines: WARD-BECK SYSTEMs · LTD · CONNECTOR · LAYouT · M529 · COMMUNICATIONS · MODULE · P2 · SUMM · NG · INPUT · SUMMING
 
-Every curve, box, word and wire group: [1985 - M529 - Communication Modules p17 (traced).json](../MANUALS/1985%20-%20M529%20-%20Communication%20Modules%20p17%20(traced).json) (the CAD file: `1985 - M529 - Communication Modules p17 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M529 - Communication Modules p17 (traced).json](../MANUALS/1985%20-%20M529%20-%20Communication%20Modules%20p17%20%28traced%29.json) (the CAD file: `1985 - M529 - Communication Modules p17 (traced).dxf`).
 
 ### Page 18
 
@@ -210,7 +210,7 @@ Every curve, box, word and wire group: [1985 - M529 - Communication Modules p17 
 - **Words (OCR):** 16 in 16 lines: OSC ILLATC · SAI-IZL · SuBASSHE · "on · MON · AUX · AUX · AUx · AUX · WBS · WARD-BECK SYSTEMS · M529
 - **Title block:** (340, 32)–(432, 50) mm: WBS · WARD-BECK SYSTEMS
 
-Every curve, box, word and wire group: [1985 - M529 - Communication Modules p18 (traced).json](../MANUALS/1985%20-%20M529%20-%20Communication%20Modules%20p18%20(traced).json) (the CAD file: `1985 - M529 - Communication Modules p18 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M529 - Communication Modules p18 (traced).json](../MANUALS/1985%20-%20M529%20-%20Communication%20Modules%20p18%20%28traced%29.json) (the CAD file: `1985 - M529 - Communication Modules p18 (traced).dxf`).
 
 ### Page 19
 
@@ -223,7 +223,7 @@ Every curve, box, word and wire group: [1985 - M529 - Communication Modules p18 
 - **Words (OCR):** 41 in 37 lines: SMTCHED · CoTPOL · SPEAKER · SPCAKER · AMPLFIEP · Satchod · LCVEL · INPUTS · CCHTOL · Bcbr · direct · UJTE
 - **Title block:** (332, 36)–(432, 54) mm: WBS WARD-BECK SYSTEMS
 
-Every curve, box, word and wire group: [1985 - M529 - Communication Modules p19 (traced).json](../MANUALS/1985%20-%20M529%20-%20Communication%20Modules%20p19%20(traced).json) (the CAD file: `1985 - M529 - Communication Modules p19 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M529 - Communication Modules p19 (traced).json](../MANUALS/1985%20-%20M529%20-%20Communication%20Modules%20p19%20%28traced%29.json) (the CAD file: `1985 - M529 - Communication Modules p19 (traced).dxf`).
 
 ### Page 20
 
@@ -234,7 +234,7 @@ Every curve, box, word and wire group: [1985 - M529 - Communication Modules p19 
 - **Words (OCR):** 9 in 8 lines: {E +2+ + · Jtkk · WBS WAAD-BeCK SYSTEMS · M529 · CommuniCATiOnS MODULE · SCHEMATIC · B 529 -02-001 · ISS.1
 - **Title block:** (342, 31)–(432, 48) mm: WBS WAAD-BeCK SYSTEMS
 
-Every curve, box, word and wire group: [1985 - M529 - Communication Modules p20 (traced).json](../MANUALS/1985%20-%20M529%20-%20Communication%20Modules%20p20%20(traced).json) (the CAD file: `1985 - M529 - Communication Modules p20 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M529 - Communication Modules p20 (traced).json](../MANUALS/1985%20-%20M529%20-%20Communication%20Modules%20p20%20%28traced%29.json) (the CAD file: `1985 - M529 - Communication Modules p20 (traced).dxf`).
 
 ### Page 21
 
@@ -247,7 +247,7 @@ Every curve, box, word and wire group: [1985 - M529 - Communication Modules p20 
 - **Words (OCR):** 77 in 73 lines: saje · CFAA · 546 · CFT-Ap · C4T-Ap · "FL/T8 · Vzu · 2i82 · 10/25 · CBD ICP · 448 · 448
 - **Title block:** (207, 30)–(432, 162) mm: 14-118'85 · 35322k · 35432k · ISSUE · R2922k · Rzz44 · 2102 · R5722k · R27 E R2i T · ul · R49 22k · RsQ !ok · 680/16 · (DISOP · "216| · sop · 0. 015 · 100 /40 · L/356 · S502 · Aiio@ · FL 0.75A · 9559 
 
-Every curve, box, word and wire group: [1985 - M529 - Communication Modules p21 (traced).json](../MANUALS/1985%20-%20M529%20-%20Communication%20Modules%20p21%20(traced).json) (the CAD file: `1985 - M529 - Communication Modules p21 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M529 - Communication Modules p21 (traced).json](../MANUALS/1985%20-%20M529%20-%20Communication%20Modules%20p21%20%28traced%29.json) (the CAD file: `1985 - M529 - Communication Modules p21 (traced).dxf`).
 
 ### Page 22
 
@@ -257,7 +257,7 @@ Every curve, box, word and wire group: [1985 - M529 - Communication Modules p21 
 - **Words (OCR):** 7 in 5 lines: WAAD-BECK · SYSTEMS · LTD. · SECTION · MODULES AND SUBASSE MBL IES
 - **Title block:** (12, 401)–(120, 426) mm: WAAD-BECK · SYSTEMS
 
-Every curve, box, word and wire group: [1985 - M529 - Communication Modules p22 (traced).json](../MANUALS/1985%20-%20M529%20-%20Communication%20Modules%20p22%20(traced).json) (the CAD file: `1985 - M529 - Communication Modules p22 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M529 - Communication Modules p22 (traced).json](../MANUALS/1985%20-%20M529%20-%20Communication%20Modules%20p22%20%28traced%29.json) (the CAD file: `1985 - M529 - Communication Modules p22 (traced).dxf`).
 
 ### Page 23
 
@@ -267,7 +267,7 @@ Every curve, box, word and wire group: [1985 - M529 - Communication Modules p22 
 - **Words (OCR):** 9 in 5 lines: WAAD-BECK Systems LTD; · SA14-124 OSC ILLATOR ASSEMBLY · Issue · August · 1985
 - **Title block:** (0, 29)–(246, 432) mm: WAAD-BECK Systems LTD; · SA14-124 OSC ILLATOR ASSEMBLY · Issue · August
 
-Every curve, box, word and wire group: [1985 - M529 - Communication Modules p23 (traced).json](../MANUALS/1985%20-%20M529%20-%20Communication%20Modules%20p23%20(traced).json) (the CAD file: `1985 - M529 - Communication Modules p23 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M529 - Communication Modules p23 (traced).json](../MANUALS/1985%20-%20M529%20-%20Communication%20Modules%20p23%20%28traced%29.json) (the CAD file: `1985 - M529 - Communication Modules p23 (traced).dxf`).
 
 ### Page 24
 
@@ -276,7 +276,7 @@ Every curve, box, word and wire group: [1985 - M529 - Communication Modules p23 
 - **Outlines:** line 30 rings, 1,172 straight (3,068 mm) / 133 curved (211 mm); text 2,048 rings, 14,135 straight (15,651 mm) / 4,498 curved (7,115 mm)
 - **Words (OCR):** 276 in 115 lines: WAAD-BECK SysTeMS LTD; · CIRcUIT DESCRIPTION · SA14-124 OSC ILLATOR ASSEMBLY · The · SA14-124 is · ten · frequency oscillator · subassembly which · plugs · onto · the · M529 Communications
 
-Every curve, box, word and wire group: [1985 - M529 - Communication Modules p24 (traced).json](../MANUALS/1985%20-%20M529%20-%20Communication%20Modules%20p24%20(traced).json) (the CAD file: `1985 - M529 - Communication Modules p24 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M529 - Communication Modules p24 (traced).json](../MANUALS/1985%20-%20M529%20-%20Communication%20Modules%20p24%20%28traced%29.json) (the CAD file: `1985 - M529 - Communication Modules p24 (traced).dxf`).
 
 ### Page 25
 
@@ -286,7 +286,7 @@ Every curve, box, word and wire group: [1985 - M529 - Communication Modules p24 
 - **Words (OCR):** 143 in 121 lines: WARD-BECK Systems LTD_ · PARTS · LiST · SA14-124 · OSC ILLATOR ASSEMBLY · PART DESCRIPT ION · MFG · MFG PART NUMBER · C1 · Capacitor 0.025 · uF/100 · C2
 - **Title block:** (0, 410)–(112, 432) mm: WARD-BECK Systems LTD_
 
-Every curve, box, word and wire group: [1985 - M529 - Communication Modules p25 (traced).json](../MANUALS/1985%20-%20M529%20-%20Communication%20Modules%20p25%20(traced).json) (the CAD file: `1985 - M529 - Communication Modules p25 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M529 - Communication Modules p25 (traced).json](../MANUALS/1985%20-%20M529%20-%20Communication%20Modules%20p25%20%28traced%29.json) (the CAD file: `1985 - M529 - Communication Modules p25 (traced).dxf`).
 
 ### Page 26
 
@@ -297,7 +297,7 @@ Every curve, box, word and wire group: [1985 - M529 - Communication Modules p25 
 - **Words (OCR):** 193 in 159 lines: WAAD-BECK BYBTEMS LTD; · PARTS LIST · PARIS LIST · 5A14-124OSCILLATOR ASSEMBLY · 5A14-124 · OSCILLATOR ASSEMBLY · PART DESCRIPTION · MFG · MFG PART_NUMBER · PARI DESCRIPTION · MFG · MFG PART NUMBER
 - **Title block:** (14, 29)–(396, 287) mm: WAAD-BECK BYBTEMS LTD; · PARTS LIST · PARIS LIST · 5A14-124OSCILLATOR ASSEMBLY · 5A14-124 · OSCILLATOR ASSEMBLY · PART DESCRIPTION · MFG · MFG PART_NUMBER · PARI DESCRIPTION · MFG · R6 · Resistor 1/4w
 
-Every curve, box, word and wire group: [1985 - M529 - Communication Modules p26 (traced).json](../MANUALS/1985%20-%20M529%20-%20Communication%20Modules%20p26%20(traced).json) (the CAD file: `1985 - M529 - Communication Modules p26 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M529 - Communication Modules p26 (traced).json](../MANUALS/1985%20-%20M529%20-%20Communication%20Modules%20p26%20%28traced%29.json) (the CAD file: `1985 - M529 - Communication Modules p26 (traced).dxf`).
 
 ### Page 27
 
@@ -311,7 +311,7 @@ Every curve, box, word and wire group: [1985 - M529 - Communication Modules p26 
 - **Title block:** (333, 31)–(431, 47) mm: WBS WAAD-BECk SYSTEMS
 - **Wiring (first pass):** 89 connected wire groups from 675 runs; labelled ends: 254 mm → 07k5, JJZK, 4J2 1%; 251 mm → JJZK; 162 mm → 22/25; 114 mm → NESSJAN +22v, 45;, 3725", 3J/16; 109 mm → 45;
 
-Every curve, box, word and wire group: [1985 - M529 - Communication Modules p27 (traced).json](../MANUALS/1985%20-%20M529%20-%20Communication%20Modules%20p27%20(traced).json) (the CAD file: `1985 - M529 - Communication Modules p27 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M529 - Communication Modules p27 (traced).json](../MANUALS/1985%20-%20M529%20-%20Communication%20Modules%20p27%20%28traced%29.json) (the CAD file: `1985 - M529 - Communication Modules p27 (traced).dxf`).
 
 ### Page 28
 
@@ -323,7 +323,7 @@ Every curve, box, word and wire group: [1985 - M529 - Communication Modules p27 
 - **Words (OCR):** 100 in 87 lines: FREQUENCY SELECTOR · NBS · 1-131 · 10/25 · LEVEL · e5 0 · R4594 · Ks · R4I R2z zk · R2i · c3925 · 432 L
 - **Title block:** (30, 49)–(253, 246) mm: 14-124 · 10/25 · 22p · L2zzes · C17 · JISSUE · 22k · U3 · N5; · R44 · NESS · ~~R45 22K · 34N · 47P · R4g !OK R48 Tk · Iok · RSQ · R47 · C2s · R54 · 680/16 · R52 · C2z · 00000 · Pi · 680/16 · WBS WARD-
 
-Every curve, box, word and wire group: [1985 - M529 - Communication Modules p28 (traced).json](../MANUALS/1985%20-%20M529%20-%20Communication%20Modules%20p28%20(traced).json) (the CAD file: `1985 - M529 - Communication Modules p28 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M529 - Communication Modules p28 (traced).json](../MANUALS/1985%20-%20M529%20-%20Communication%20Modules%20p28%20%28traced%29.json) (the CAD file: `1985 - M529 - Communication Modules p28 (traced).dxf`).
 
 ## Full text
 

@@ -35,7 +35,7 @@ Wiki page: [M529](../../../../PAGES/M529.md)
 - **Words (OCR):** 46 in 32 lines: NCTES: · ) MATL IOO CLEAR · ALEXIGLASS · 2 FINISH: NONE · 08l0 DIA · 4 C'BOPE .125DIA · 3 TOL : XX='015 · XXX = 005 · 2 PLACES TYP · SEE DETAICA · REMOVE ALL Bueps AND · SHAPP EOGES
 - **Title block:** (278, 4)–(432, 184) mm: REMOVE ALL Bueps AND · SHAPP EOGES · DETAIL A · 030 · CBloDA HOLES WERE IIODA · BD · ISSUE DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN  ED ME · ENG. MeW · CKD: · IDENT COVER · APP · SCALE · 52
 
-Every curve, box, word and wire group: [1985 - 529-03-005 - IDENT COVER - DRN BD - ENG MRW - ISS 2 (traced).json](../MECHANICAL/1985%20-%20529-03-005%20-%20IDENT%20COVER%20-%20DRN%20BD%20-%20ENG%20MRW%20-%20ISS%202%20(traced).json) (the CAD file: `1985 - 529-03-005 - IDENT COVER - DRN BD - ENG MRW - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - 529-03-005 - IDENT COVER - DRN BD - ENG MRW - ISS 2 (traced).json](../MECHANICAL/1985%20-%20529-03-005%20-%20IDENT%20COVER%20-%20DRN%20BD%20-%20ENG%20MRW%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1985 - 529-03-005 - IDENT COVER - DRN BD - ENG MRW - ISS 2 (traced).dxf`).
 
 ## Full text
 
