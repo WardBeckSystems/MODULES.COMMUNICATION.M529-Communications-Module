@@ -1,16 +1,16 @@
-# M529 · Communication
+# M529 Communications Module · Communication
 
 Ward-Beck Systems M529, 1985|18. Wiki page: [M529 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M529.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 16 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 11 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 2 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 139 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 0 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 0 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 6 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 17 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 16 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 3 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 140 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 2 |
+| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 7 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 62 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -60,18 +60,10 @@ The integral gooseneck microphone connects to the input transformer T1 of the pr
 _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- drawings), AutoCAD files, each with its `(EXTRACTED).svg` vectors; `<module> - front panel.svg` is the front panel as vectors._
 
 <table>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKMGVrWm1yNDlPeE0/view?resourcekey=0-agfHwo6wGB_enmHseHxrAA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKMGVrWm1yNDlPeE0&resourcekey=0-agfHwo6wGB_enmHseHxrAA" width="240" alt="1985 - M529 - 529-04-002.jpg"></a><br><sub>1985|18 · 529-04-002 · <a href="MECHANICAL/1985%20-%20M529%20-%20529-04-002%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKUUhybHcxVEctcGs/view?resourcekey=0-Ks1Q0XhZl0xTXQjc1IvgSw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKUUhybHcxVEctcGs&resourcekey=0-Ks1Q0XhZl0xTXQjc1IvgSw" width="240" alt="19xx - M529 - DOC - 529-04-001 - COMMUNICA TIONS MODULE.jpg"></a><br><sub>19xx - M529 - DOC - 529-04-001 - COMMUNICA TIONS MODULE</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKMGVrWm1yNDlPeE0/view?resourcekey=0-agfHwo6wGB_enmHseHxrAA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKMGVrWm1yNDlPeE0&resourcekey=0-agfHwo6wGB_enmHseHxrAA" width="240" alt="1985 - M529 - 529-04-002.jpg"></a><br><sub>1985|18 · 529-04-002 · <a href="MECHANICAL/1985%20-%20M529%20-%20529-04-002%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKUUhybHcxVEctcGs/view?resourcekey=0-Ks1Q0XhZl0xTXQjc1IvgSw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKUUhybHcxVEctcGs&resourcekey=0-Ks1Q0XhZl0xTXQjc1IvgSw" width="240" alt="19xx - M529 - DOC - 529-04-001 - COMMUNICA TIONS MODULE.jpg"></a><br><sub>19xx - M529 - DOC - 529-04-001 - COMMUNICA TIONS MODULE · <a href="MECHANICAL/19xx%20-%20M529%20-%20DOC%20-%20529-04-001%20-%20COMMUNICA%20TIONS%20MODULE%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
 Not on Google Drive yet: `1985 - 529-03-005 - IDENT COVER - DRN BD - ENG MRW - ISS 2.jpg`
-
-## 3-D model
-
-[`MECHANICAL/M529.stl`](MECHANICAL/M529.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M529)
-
-- **Size:** 41 × 360 mm panel, 165 mm deep, 3.2 mm plate (TECHNICAL DATA: 1.60" wide 14.15" high 6.50" deep_ (41mm 360 mm 165 mm))
-- **From the drawing:** 22 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M529 - front panel.svg`)
-- Made by `tools/module_models.py` (→ `MECHANICAL/M529.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
 
 ## Schematics
 
@@ -115,6 +107,11 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1985 - M529 - B 529-01-001 - COMMUNICATIONS MODULE - FUNCTIONAL.kicad_sch](KICAD/1985%20-%20M529%20-%20B%20529-01-001%20-%20COMMUNICATIONS%20MODULE%20-%20FUNCTIONAL.kicad_sch)
 - [1985 - M529 - Communication Modules p27.kicad_sch](KICAD/1985%20-%20M529%20-%20Communication%20Modules%20p27.kicad_sch)
 - [M529.kicad_sym](KICAD/M529.kicad_sym)
+- [index.html](KICAD/index.html)
+
+## Software
+
+- [index.html](SOFTWARE/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
