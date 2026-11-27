@@ -13,6 +13,48 @@ Ward-Beck Systems M529, 1985|18. Wiki page: [M529 on WBSps.ca](https://wardbecks
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 6 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 62 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+**On the WBSps forum (2006|39 - 2014|47):** [2 topics](FORUM.md): what owners and technicians said about it.
+
+## Specifications
+
+From the technical data sheet: [1985 - M529 - 005 (2).jpg](MANUALS/1985%20-%20M529%20-%20005%20(2).jpg) page 1 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Speaker amplifier section** | C. Oscillator Section |
+| **Gain** | to Speaker Output: +37 dB +/-1 dB to Line Output: +14 dB +/-1 dB _ (measured through an external 30K ohm summing network) Frequency Response: +/-1 dB from 100 Hz to kHz |
+| **Frequencies** | 30, 50, 70,100,400,1K,4K,6K,1OK and 15K Hertz +/-10%. |
+| **Amplitude stability** | +/-0.25 dB, after 30 minute warm up Waveform Sinewave, less than 0.15% THD at all frequencies Noise= Better than 72 dB below watts or +18 dBm and 10 dB inhand in the level control (measured over 20 Hz to 20 kHz bandwidth) |
+| **Output impedance** | Less than 50 ohms, actively balanced |
+| **Load impedance** | 600 ohms balanced. |
+| **Harmonic distortion** | Less than 0.5% 100 Hz to +18 dBm output. kHz at watts or |
+| **Output level** | +8 dBm nominal |
+| **Source impedances line inputs** | Summing Input: |
+| **Power requirements** | +25 volts dc 120 mA nominal 450 mA maximum at watts_ 600 ohms or less balanced 30k ohm current source balanced |
+| **Ambient temperature** | to 60 degrees Celsius |
+| **Input impedances** | Line Inputs: Summing Input 30k ohms balanced _ Less than 10 ohms balanced |
+| **Dimensions** | 1.60&quot; wide 14.15&quot; high 6.50&quot; deep_ (41mm 360 mm 165 mm) |
+| **Input levels** | Line Inputs: Summing Input: ~. ' |
+| **Weight** | oz (1.14 kg) net. +8 dBm nominal +24 dBm maximum. dBm nominal (through 30k ohm current source) +20 dBm maximum.., 4 ` s ' '`` ` |
+| **Output impedances** | Speaker: Line Less than 0.5 ohms unbalanced. Less than 50 ohms balanced_ Load 'rpedkeces = ohms nominal _ Line 600 ohms, balanced _ Output Levels: Speaker: 200 mw nominal (+34.77 dB) 1.` `, 1-3 watts maximum |
+| **Line** | +8 dBm nominal, +22 dBm maximum. |
+
+## Circuit description
+
+From [1985 - M529 - 010 (2).jpg](MANUALS/1985%20-%20M529%20-%20010%20(2).jpg) page 1 (read by OCR; check against the pages). As data: [`CircuitDescription.json`](CircuitDescription.json).
+
+<details><summary>Read it</summary>
+
+Talkback_Preamplifier Talkback Sel actors ^ny t'.
+
+The integral gooseneck microphone connects to the input transformer T1 of the preamplifier circuitry The secondary of T1 is coupled through C28 to the preamplifier integrated circuit USA. The gain of this preamplifier circuit maybe varied over 30 dB range Via the setting of R6z This trim control is accessible from the front panel of the module _ The talkback amplifier output is also fed to selectors Sw8 through SW1S_ These pushbuttons allow the operator to talk to the four auxiliary outputs, monitors two, three and four and to spare output. diode isolated control output is provided to operate the external talkback relays or feed information into the ST series console control system. The preamplifier output is coupled through C35 to the limiter circuit. Talkback Limi ter Slate FET 04, is used as variable resistor in the imiter circuitry, which controls or maintains constant output level from the preamplifier over wide range of input Level variations The output from the talkback amplifier and the SA14-124 Oscillator Subassembly are fed to the Slate and Tone selectors SW2 and Sw3_ The talk control wili override the tone selection_ Selectors SW4 through to SW7 are assign preset selectors which determine to which master outputs the slating is fed to. These selectors have diode isolated control outputs for the purpose of operating the external slating relays (These relays are part of the M527 Master Module) USB is buffering amplifier which isolates 04 from the output circuitry _ u6 amplifies the audio output signal which is fed back to rectifiers CR6 and CR7 The error voltage developed across C37 varies the resistance of Q4 and therefore the signal level fed to the input of USB Threshold control R84 sets the level at which the limiting begins The correction voltage across C37 is fed to amplifier u7 through R83 The output of u7 drives the limiter level indicator comparator UBA and U8B R88 sets the threshold point at which the comparators will switch. The green LED of DS2 is set to iuminate at the threshold of limiting_: '. The red LED of DS2 will illuminate (and the green extinguishes) when the degree of limiting reaches 25 to 30 dB, indicating an over load condition This wi occur if the preamplifier sensitivity control R67 is set too high. '. -0.. Talkback:' Output Oscillator The SA14-124 Oscillator Subassembly feeds the slating functions and the external assignable output. Selector SW1 assigns the oscillator output to the external feeds through the appropriate loss networks Three different output levels are made available from the module +8 dBm 600 ohms, dBm 600 ohms and -60 dBm 150 ohms _ Two red LED indicators DS3 and DSL illuminate on the M529 Communications Module anytime the oscillator output is assigned or selected to leave the module. 2 The output from the limiter is coupled through C50 to the output power amplifier u9_ U9B forms the lower half of the actively balanced output amplifier and U9A forms the upper inverting section The actively balanced output is coupled through C59 and C60 to P1 pins 55 and 56 of the module connector This is the direct output from the talkback amplifier and operates at nominal level of +8 dBm _. '. ' '..: c: ': `. Power Supply Decoupling The unipolar +25 volt supply is applied to P2 pin 21 This supply voltage is fed through fuse F1 and isolation diode CR37 to several decoupling networks ':
+
+</details>
+
+<!-- /module data -->
+
 ## Mechanical
 
 _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- drawings), AutoCAD files, each with its `(EXTRACTED).svg` vectors; `<module> - front panel.svg` is the front panel as vectors._

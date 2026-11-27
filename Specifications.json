@@ -1,0 +1,313 @@
+{
+ "module": "M529",
+ "title": "M529COMMUNICAT IONS MODULE",
+ "source": {
+  "file": "MANUALS/1985 - M529 - 005 (2).jpg",
+  "page": 1
+ },
+ "ocr_quality": 0.98,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Speaker amplifier section",
+   "key": "speaker_amplifier_section",
+   "text": "C. Oscillator Section"
+  },
+  {
+   "name": "Gain",
+   "key": "gain",
+   "text": "to Speaker Output: +37 dB +/-1 dB to Line Output: +14 dB +/-1 dB _ (measured through an external 30K ohm summing network) Frequency Response: +/-1 dB from 100 Hz to kHz",
+   "quantities": [
+    {
+     "value": 37,
+     "unit": "dB"
+    },
+    {
+     "value": 1,
+     "unit": "dB",
+     "tolerance": true
+    },
+    {
+     "value": 14,
+     "unit": "dB"
+    },
+    {
+     "value": 1,
+     "unit": "dB",
+     "tolerance": true
+    },
+    {
+     "value": 1,
+     "unit": "dB",
+     "tolerance": true
+    },
+    {
+     "value": 100,
+     "unit": "Hz"
+    }
+   ]
+  },
+  {
+   "name": "Frequencies",
+   "key": "frequencies",
+   "text": "30, 50, 70,100,400,1K,4K,6K,1OK and 15K Hertz +/-10%.",
+   "quantities": [
+    {
+     "value": 10,
+     "unit": "%",
+     "tolerance": true
+    }
+   ]
+  },
+  {
+   "name": "Amplitude stability",
+   "key": "amplitude_stability",
+   "text": "+/-0.25 dB, after 30 minute warm up Waveform Sinewave, less than 0.15% THD at all frequencies Noise= Better than 72 dB below watts or +18 dBm and 10 dB inhand in the level control (measured over 20 Hz to 20 kHz bandwidth)",
+   "quantities": [
+    {
+     "value": 0.25,
+     "unit": "dB",
+     "tolerance": true
+    },
+    {
+     "value": 0.15,
+     "unit": "%"
+    },
+    {
+     "value": 72,
+     "unit": "dB"
+    },
+    {
+     "value": 18,
+     "unit": "dBm"
+    },
+    {
+     "value": 10,
+     "unit": "dB"
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Output impedance",
+   "key": "output_impedance",
+   "text": "Less than 50 ohms, actively balanced",
+   "quantities": [
+    {
+     "value": 50,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Load impedance",
+   "key": "load_impedance",
+   "text": "600 ohms balanced.",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Harmonic distortion",
+   "key": "harmonic_distortion",
+   "text": "Less than 0.5% 100 Hz to +18 dBm output. kHz at watts or",
+   "quantities": [
+    {
+     "value": 0.5,
+     "unit": "%"
+    },
+    {
+     "value": 100,
+     "unit": "Hz"
+    },
+    {
+     "value": 18,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Output level",
+   "key": "output_level",
+   "text": "+8 dBm nominal",
+   "quantities": [
+    {
+     "value": 8,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Source impedances line inputs",
+   "key": "source_impedances_line_input",
+   "text": "Summing Input:"
+  },
+  {
+   "name": "Power requirements",
+   "key": "power_requirement",
+   "text": "+25 volts dc 120 mA nominal 450 mA maximum at watts_ 600 ohms or less balanced 30k ohm current source balanced",
+   "quantities": [
+    {
+     "value": 25,
+     "unit": "volts dc"
+    },
+    {
+     "value": 120,
+     "unit": "mA"
+    },
+    {
+     "value": 450,
+     "unit": "mA"
+    },
+    {
+     "value": 600,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Ambient temperature",
+   "key": "ambient_temperature",
+   "text": "to 60 degrees Celsius",
+   "quantities": [
+    {
+     "value": 60,
+     "unit": "degrees Celsius"
+    }
+   ]
+  },
+  {
+   "name": "Input impedances",
+   "key": "input_impedance",
+   "text": "Line Inputs: Summing Input 30k ohms balanced _ Less than 10 ohms balanced",
+   "quantities": [
+    {
+     "value": 10,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Dimensions",
+   "key": "dimensions",
+   "text": "1.60\" wide 14.15\" high 6.50\" deep_ (41mm 360 mm 165 mm)",
+   "quantities": [
+    {
+     "value": 1.6,
+     "unit": "\""
+    },
+    {
+     "value": 14.15,
+     "unit": "\""
+    },
+    {
+     "value": 6.5,
+     "unit": "\""
+    },
+    {
+     "value": 41,
+     "unit": "mm"
+    },
+    {
+     "value": 360,
+     "unit": "mm"
+    },
+    {
+     "value": 165,
+     "unit": "mm"
+    }
+   ]
+  },
+  {
+   "name": "Input levels",
+   "key": "input_level",
+   "text": "Line Inputs: Summing Input: ~. '"
+  },
+  {
+   "name": "Weight",
+   "key": "weight",
+   "text": "oz (1.14 kg) net. +8 dBm nominal +24 dBm maximum. dBm nominal (through 30k ohm current source) +20 dBm maximum.., 4 ` s ' '`` `",
+   "quantities": [
+    {
+     "value": 1.14,
+     "unit": "kg"
+    },
+    {
+     "value": 8,
+     "unit": "dBm"
+    },
+    {
+     "value": 24,
+     "unit": "dBm"
+    },
+    {
+     "value": 20,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Output impedances",
+   "key": "output_impedance",
+   "text": "Speaker: Line Less than 0.5 ohms unbalanced. Less than 50 ohms balanced_ Load 'rpedkeces = ohms nominal _ Line 600 ohms, balanced _ Output Levels: Speaker: 200 mw nominal (+34.77 dB) 1.` `, 1-3 watts maximum",
+   "quantities": [
+    {
+     "value": 0.5,
+     "unit": "ohms"
+    },
+    {
+     "value": 50,
+     "unit": "ohms"
+    },
+    {
+     "value": 600,
+     "unit": "ohms"
+    },
+    {
+     "value": 34.77,
+     "unit": "dB"
+    },
+    {
+     "from": 1,
+     "to": 3,
+     "unit": "watts"
+    }
+   ]
+  },
+  {
+   "name": "Line",
+   "key": "line",
+   "text": "+8 dBm nominal, +22 dBm maximum.",
+   "quantities": [
+    {
+     "value": 8,
+     "unit": "dBm"
+    },
+    {
+     "value": 22,
+     "unit": "dBm"
+    }
+   ]
+  }
+ ],
+ "also_in": [
+  {
+   "file": "MANUALS/1985 - M529 - Communication Modules.pdf",
+   "page": 5
+  },
+  {
+   "file": "MANUALS/1985 - M529 - 004 (2).jpg",
+   "page": 1
+  }
+ ]
+}

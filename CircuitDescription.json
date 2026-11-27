@@ -1,0 +1,20 @@
+{
+ "module": "M529",
+ "source": {
+  "file": "MANUALS/1985 - M529 - 010 (2).jpg",
+  "pages": [
+   1
+  ]
+ },
+ "ocr_quality": 0.92,
+ "read": "OCR of the manual's circuit description; check against the pages",
+ "sections": [
+  {
+   "heading": null,
+   "paragraphs": [
+    "Talkback_Preamplifier Talkback Sel actors ^ny t'.",
+    "The integral gooseneck microphone connects to the input transformer T1 of the preamplifier circuitry The secondary of T1 is coupled through C28 to the preamplifier integrated circuit USA. The gain of this preamplifier circuit maybe varied over 30 dB range Via the setting of R6z This trim control is accessible from the front panel of the module _ The talkback amplifier output is also fed to selectors Sw8 through SW1S_ These pushbuttons allow the operator to talk to the four auxiliary outputs, monitors two, three and four and to spare output. diode isolated control output is provided to operate the external talkback relays or feed information into the ST series console control system. The preamplifier output is coupled through C35 to the limiter circuit. Talkback Limi ter Slate FET 04, is used as variable resistor in the imiter circuitry, which controls or maintains constant output level from the preamplifier over wide range of input Level variations The output from the talkback amplifier and the SA14-124 Oscillator Subassembly are fed to the Slate and Tone selectors SW2 and Sw3_ The talk control wili override the tone selection_ Selectors SW4 through to SW7 are assign preset selectors which determine to which master outputs the slating is fed to. These selectors have diode isolated control outputs for the purpose of operating the external slating relays (These relays are part of the M527 Master Module) USB is buffering amplifier which isolates 04 from the output circuitry _ u6 amplifies the audio output signal which is fed back to rectifiers CR6 and CR7 The error voltage developed across C37 varies the resistance of Q4 and therefore the signal level fed to the input of USB Threshold control R84 sets the level at which the limiting begins The correction voltage across C37 is fed to amplifier u7 through R83 The output of u7 drives the limiter level indicator comparator UBA and U8B R88 sets the threshold point at which the comparators will switch. The green LED of DS2 is set to iuminate at the threshold of limiting_: '. The red LED of DS2 will illuminate (and the green extinguishes) when the degree of limiting reaches 25 to 30 dB, indicating an over load condition This wi occur if the preamplifier sensitivity control R67 is set too high. '. -0.. Talkback:' Output Oscillator The SA14-124 Oscillator Subassembly feeds the slating functions and the external assignable output. Selector SW1 assigns the oscillator output to the external feeds through the appropriate loss networks Three different output levels are made available from the module +8 dBm 600 ohms, dBm 600 ohms and -60 dBm 150 ohms _ Two red LED indicators DS3 and DSL illuminate on the M529 Communications Module anytime the oscillator output is assigned or selected to leave the module. 2 The output from the limiter is coupled through C50 to the output power amplifier u9_ U9B forms the lower half of the actively balanced output amplifier and U9A forms the upper inverting section The actively balanced output is coupled through C59 and C60 to P1 pins 55 and 56 of the module connector This is the direct output from the talkback amplifier and operates at nominal level of +8 dBm _. '. ' '..: c: ': `. Power Supply Decoupling The unipolar +25 volt supply is applied to P2 pin 21 This supply voltage is fed through fuse F1 and isolation diode CR37 to several decoupling networks ':"
+   ]
+  }
+ ]
+}
