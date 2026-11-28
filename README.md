@@ -4,13 +4,12 @@ Ward-Beck Systems M529, 1985|18. Wiki page: [M529 on WBSps.ca](https://wardbecks
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 17 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 16 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 3 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 140 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 2 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 7 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 16 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 15 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 2 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 139 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 6 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 62 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -63,7 +62,13 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKMGVrWm1yNDlPeE0/view?resourcekey=0-agfHwo6wGB_enmHseHxrAA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKMGVrWm1yNDlPeE0&resourcekey=0-agfHwo6wGB_enmHseHxrAA" width="240" alt="1985 - M529 - 529-04-002.jpg"></a><br><sub>1985|18 · 529-04-002 · <a href="MECHANICAL/1985%20-%20M529%20-%20529-04-002%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKUUhybHcxVEctcGs/view?resourcekey=0-Ks1Q0XhZl0xTXQjc1IvgSw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKUUhybHcxVEctcGs&resourcekey=0-Ks1Q0XhZl0xTXQjc1IvgSw" width="240" alt="19xx - M529 - DOC - 529-04-001 - COMMUNICA TIONS MODULE.jpg"></a><br><sub>19xx - M529 - DOC - 529-04-001 - COMMUNICA TIONS MODULE · <a href="MECHANICAL/19xx%20-%20M529%20-%20DOC%20-%20529-04-001%20-%20COMMUNICA%20TIONS%20MODULE%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1985 - 529-03-005 - IDENT COVER - DRN BD - ENG MRW - ISS 2.jpg`
+## 3-D model
+
+[`MECHANICAL/M529.stl`](MECHANICAL/M529.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M529)
+
+- **Size:** 41 × 360 mm panel, 165 mm deep, 3.2 mm plate (TECHNICAL DATA: 1.60" wide 14.15" high 6.50" deep_ (41mm 360 mm 165 mm))
+- **From the drawing:** 22 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M529 - front panel.svg`)
+- Made by `tools/module_models.py` (→ `MECHANICAL/M529.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
 
 ## Schematics
 
@@ -73,9 +78,7 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKaXlSRmFPeHdMMWc/view?resourcekey=0-X4uKuwQJVeaCUIIWJ19Q4Q" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKaXlSRmFPeHdMMWc&resourcekey=0-X4uKuwQJVeaCUIIWJ19Q4Q" width="240" alt="1985 - M529 - 529-02-011.jpg"></a><br><sub>1985|18 · 529-02-011 · <a href="SCHEMATICS/1985%20-%20M529%20-%20529-02-011%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Shared privately on Google Drive (opens after sign-in): [1985|18 · B 14-124-02-001 - SA14-124 OSCILLATOR ASSEMBLY - SCHEMATIC](https://drive.google.com/file/d/0B0yR0b5T78SKYklReS1QWHhqS1E/view?resourcekey=0-e18htzTE2yk8CaH7I_uQJQ) · [1985|18 · B 529-01-001 - COMMUNICATIONS MODULE - FUNCTIONAL](https://drive.google.com/file/d/0B0yR0b5T78SKTldldWVPQTloc1U/view?resourcekey=0-HLTfrlBdZoZkyk7Kpy6u8w)
-
-Not on Google Drive yet: `1985 - 529-02-011 - M529A UTILITY MODULE - ENG ELJ - ISS 1.jpg`
+Shared privately on Google Drive (opens after sign-in): [1985|18 · B 529-01-001 - COMMUNICATIONS MODULE - FUNCTIONAL](https://drive.google.com/file/d/0B0yR0b5T78SKTldldWVPQTloc1U/view?resourcekey=0-HLTfrlBdZoZkyk7Kpy6u8w)
 
 ## Manuals and documents
 
@@ -103,11 +106,10 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 
 - [1985 - 529-02-011 - M529A UTILITY MODULE - ENG ELJ - ISS 1.kicad_sch](KICAD/1985%20-%20529-02-011%20-%20M529A%20UTILITY%20MODULE%20-%20ENG%20ELJ%20-%20ISS%201.kicad_sch)
 - [1985 - M529 - 529-02-011.kicad_sch](KICAD/1985%20-%20M529%20-%20529-02-011.kicad_sch)
-- [1985 - M529 - [DWG 14-124-02-001] - SA14-124 OSCILLATOR ASSEMBLY - SCHEMATIC.kicad_sch](KICAD/1985%20-%20M529%20-%20%5BDWG%2014-124-02-001%5D%20-%20SA14-124%20OSCILLATOR%20ASSEMBLY%20-%20SCHEMATIC.kicad_sch)
 - [1985 - M529 - B 529-01-001 - COMMUNICATIONS MODULE - FUNCTIONAL.kicad_sch](KICAD/1985%20-%20M529%20-%20B%20529-01-001%20-%20COMMUNICATIONS%20MODULE%20-%20FUNCTIONAL.kicad_sch)
 - [1985 - M529 - [DWG 14-124-02-001] - Communication Modules p27.kicad_sch](KICAD/1985%20-%20M529%20-%20%5BDWG%2014-124-02-001%5D%20-%20Communication%20Modules%20p27.kicad_sch)
+- [1985 - M529 - [DWG 14-124-02-001] - SA14-124 OSCILLATOR ASSEMBLY - SCHEMATIC.kicad_sch](KICAD/1985%20-%20M529%20-%20%5BDWG%2014-124-02-001%5D%20-%20SA14-124%20OSCILLATOR%20ASSEMBLY%20-%20SCHEMATIC.kicad_sch)
 - [M529.kicad_sym](KICAD/M529.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
