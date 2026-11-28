@@ -1,5 +1,5 @@
 # 1985 - M529 - B 529-01-001 - COMMUNICATIONS MODULE - FUNCTIONAL.jpg
-Wiki page: [M529](../../../../PAGES/M529.md)
+Wiki page: [M529](../)
 
 
 - **Year:** 1985 (module estimate (manual_issue))

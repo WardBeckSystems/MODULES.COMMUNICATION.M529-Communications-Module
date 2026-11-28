@@ -1,5 +1,5 @@
 # 1985 - 529-02-011 - M529A UTILITY MODULE - ENG ELJ - ISS 1.jpg
-Wiki page: [M529](../../../../PAGES/M529.md)
+Wiki page: [M529](../)
 
 
 - **Year:** 1985 (title block date)

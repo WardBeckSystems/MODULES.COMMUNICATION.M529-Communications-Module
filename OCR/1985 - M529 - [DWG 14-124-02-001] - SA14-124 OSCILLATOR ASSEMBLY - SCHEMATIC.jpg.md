@@ -1,5 +1,5 @@
 # 1985 - M529 - B 14-124-02-001 - SA14-124 OSCILLATOR ASSEMBLY - SCHEMATIC.jpg
-Wiki page: [M529](../../../../PAGES/M529.md)
+Wiki page: [M529](../)
 
 
 - **Year:** 1985 (module estimate (manual_issue))

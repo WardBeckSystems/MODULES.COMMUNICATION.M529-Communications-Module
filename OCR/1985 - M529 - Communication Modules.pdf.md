@@ -1,5 +1,5 @@
 # 1985 - M529 - Communication Modules.pdf
-Wiki page: [M529](../../../../PAGES/M529.md)
+Wiki page: [M529](../)
 
 
 - **Year:** 1985 (found in this file: "MANUAL ISSUE #1 AuGust 1985")

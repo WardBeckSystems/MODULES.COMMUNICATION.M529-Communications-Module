@@ -1,5 +1,5 @@
 # 1985 - 529-03-005 - IDENT COVER - DRN BD - ENG MRW - ISS 2.jpg
-Wiki page: [M529](../../../../PAGES/M529.md)
+Wiki page: [M529](../)
 
 
 - **Year:** 1985 (title block date)

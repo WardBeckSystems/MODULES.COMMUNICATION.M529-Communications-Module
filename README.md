@@ -1,6 +1,6 @@
 # M529 Communications Module · Communication
 
-Ward-Beck Systems M529, 1985|18. Wiki page: [M529 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M529.html)
+Ward-Beck Systems M529, 1985|18. Wiki page: [M529 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M529-Communications-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|
